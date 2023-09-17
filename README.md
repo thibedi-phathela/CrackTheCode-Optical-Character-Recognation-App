@@ -5,5 +5,8 @@
 ## How To Use
 
     1.Download and install the apk on any android device.
-    2.Click on 'scan text', take a clear picture of the text.
+    2.Open the App and Click on 'scan text', take a clear picture of the text.
     3.Click the checkmark ✓ and the decrypted text will be shown on screen.
+
+
+![Alt text](Image.jpeg)
