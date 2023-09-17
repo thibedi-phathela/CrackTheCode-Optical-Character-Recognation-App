@@ -5,4 +5,5 @@
 ## How To Use
 
     1.Download and install the apk on any android device.
-    2.Click on 'scan text', take a clear picture of the text and click the checkmark ✓ and the decrypted text will be shown on screen.
+    2.Click on 'scan text', take a clear picture of the text.
+    3.Click the checkmark ✓ and the decrypted text will be shown on screen.
