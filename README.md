@@ -1,8 +1,9 @@
 # Crack the Code
 
  This android application takes a picture of an encryted text, decrypts it and produces the plain-text
- 
- How the text was decrypted~ Material/Decryption.pdf
+
+  [How the text was decrypted](./material/Decryption.pdf)
+
 
 ## How To Use
 
