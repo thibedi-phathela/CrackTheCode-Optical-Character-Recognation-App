@@ -1,6 +1,6 @@
 # Crack the Code
 
- This android application takes a picture of an encryted text, decrypts it and produces the plain-text
+ This android application takes a picture of an encrypted text, decrypts it and produces the plain-text
 
   [How the text was decrypted](./Material/Decryption.pdf)
 
